@@ -1,4 +1,6 @@
 #Program Kalkulator
+<br>
+Progam kalkulator ini merupakan program kalkulator pada umumnya yang memiliki fungsi dasar yang sama.
 <br><br>
 #Screen Shoot
 <br>
